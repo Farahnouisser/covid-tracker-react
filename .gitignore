@@ -1,0 +1,5 @@
+node_modules
+covid-19-tracker/.firebaserc
+covid-19-tracker/firebase.json
+covid-19-tracker/yarn.lock
+covid-19-tracker/.firebase/hosting.YnVpbGQ.cache
